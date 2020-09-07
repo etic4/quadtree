@@ -1,4 +1,4 @@
-# quadtree
+# quadtree (learning project)
 Tentative d'implémentation d'un quadtree basé sur "Coding challenge: quadtree" (https://www.youtube.com/watch?v=OJxEcs0w_kE&vl=fr)
 
 Faut pas utiliser ça, c'est vraiment inefficient. De plus le concept de quadtree est mal compris, je pense
