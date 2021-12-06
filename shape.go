@@ -3,7 +3,7 @@ package quadtree
 import (
 	"fmt"
 
-	vec "github.com/machinbrol/vecmath"
+	vec "github.com/etic4/vecmath"
 )
 
 type Circle struct {

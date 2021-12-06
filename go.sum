@@ -1,4 +1,4 @@
+github.com/etic4/vecmath v0.0.0-20211206173620-166aba6b2b5d h1:sHibJYhoi/8nkM0v9qnF6G9e9pMv9ivIHj2ErZk0dH8=
+github.com/etic4/vecmath v0.0.0-20211206173620-166aba6b2b5d/go.mod h1:rlLWNWj/IHGHyGMYtkU+9aZXKAQ9mBztlcFGH/V6gKQ=
 github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849 h1:/Z5Piqd55AAQxWS8oEPF1xgDVntA+W0HeEdsb5pbTVk=
 github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
-github.com/machinbrol/vecmath v0.0.0-20211206152012-d1e23ba9444f h1:4BfmFmBFqi/Sk0F27E2atigjRSkk6rZhwXFTrop0S0Y=
-github.com/machinbrol/vecmath v0.0.0-20211206152012-d1e23ba9444f/go.mod h1:5e7RTOnddyY+4RuLYW0iuJfFGhwD1/qL8zmhgk30LQc=

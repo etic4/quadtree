@@ -1,8 +1,8 @@
 package quadtree
 
 import (
+	vec "github.com/etic4/vecmath"
 	rl "github.com/gen2brain/raylib-go/raylib"
-	vec "github.com/machinbrol/vecmath"
 )
 
 //Centered ...
